@@ -1,0 +1,356 @@
+
+
+M1
+
+Você o vê, ele é muito interessante, bonito, tem um rosto fino com ângulos bem delimitados. Ele está encostado no balcão. Você se aproxima.
+(0) Olá
+
+1 - Olá, você vem sempre aqui?
+
+	(1) meu deus, você só pode ser dos anos 80!
+
+	1 - (se ofender ¬¬)
+
+		(2) ei, não se ofenda, só quis tirar um sarro com você! Adoro anos 80
+
+			1 - Você com tanto interesse no carinha e ele te zoa assim? Jogar bebida na cara dele
+	
+				(3) ele fica perplexo com sua atitude e sai do bar _|_ (FIM)
+
+
+			2 - relevar, afinal, ele parece ter um bom senso de humor. - Você é engraçado!
+
+			(3) Obrigado, acho que essa é uma das minhas melhores qualidades. Gostei da maneira que puxou conversa.
+
+				1 - Entrar na zueira. - Na verdade eu não sabia muito como vir falar com você, sabe quando você quer parecer a pessoa descolada e na hora de falar você diz "oi eu sou uma batata"?
+
+					(4) kkkkkkkkkkkkk, demais! Você também é muito comédia! Quer? (ele te oferece o uísque que está bebendo.)
+
+						1 - pegar o copo dele do balcão e beber
+
+							(5) ele olha interessado a maneira direta que pega o uísque
+
+								1 - Você só pegou o uísque para impressionar, no fundo você nem sabia que não gostava.
+
+									(6) Tudo começa a subir
+
+										1 - Você sai correndo para o banheiro
+
+											(7) Você vomita na pia, se enxagua e pega um chiclete para disfarçar. Mas quando você volta para encontrar M1 ele não está mais lá. (FIM)
+			
+										2 - Você tenta se manter firme
+
+											(7) Meu deus, não devia ter saído de casa de estomago vazio, é quase certo, você vai acabar vomitando.
+
+												1 - Você sai correndo para o banheiro mais próximo
+
+													(8) não vai dar tempo de chegar no banheiro
+
+														1 - vomitar no vaso de planta mais próximo
+
+															(9) o segurança te vê fazendo isso e te coloca para fora do bar (FIM)
+
+														2 - tentar chegar até o banheiro
+
+															(9) Você deveria ter prestado atenção nos seus sentidos, um incontido jato de vomito cai no chão, na pressa de chegar no banheiro você escorrega, bate a cabeça e morre. (FIM TRÁGICO)
+
+												2 - Você tenta manter a educação e pedir licença para ir ao banheiro.
+
+													(8) conforme você começa a falar, você percebe que será tarde demais. Na ultima palavra sai um jato em direção a M1
+
+														1 - você tenta limpar
+
+															(9) ele fica com nojo e vomita em você. vocês entram em um loop infinito até o fim dos tempos (FIM)
+
+
+														2 - pede desculpa e finge demência
+
+															(9) ele se levanta bastante constrangido e vai embora sem dizer nada (FIM)
+
+                                2 - Você curte muito uísque, sempre bebeu com seu pai
+
+                                    (6) o papo flui muito bem. - O que acha de irmos para a área externa? ta um pouco barulhento
+
+                                        1 - Claro
+
+                                            (7) vocês vão até a área externa, o céu está lindo, sem nuvens, com muitas estrelas e uma leve brisa fria bate no rosto de vocês.
+
+                                                1 - (ataca ele com seu beijo infalível)
+
+                                                    (8) (ele retribui, o beijo é muito bom e intenso)
+
+                                                        1 - (esquentar as coisas)
+
+                                                            (9) (as coisas esquentam, mas ele parece um pouco vacilante) - Olha achei demais te conhecer, mas acabei de sair de um relacionamento e não estou muito no clima. Por que não vamos com mais calma?
+
+                                                                1 - (forçar a barra)
+
+                                                                    (10) (ele não curtiu sua atitude e sem dizer mais nada volta para dentro do bar e se senta com alguns amigos)
+
+                                                                2 - (entender) - por que não voltamos para dentro?
+
+                                                                    (10) (vocês voltam para dentro e ele te apresenta aos amigos dele, a noite continua muito divertida, mas o bar começa a fechar)
+
+                                                                        1 - (você convida ele para sua casa)
+
+                                                                            (11) eu adoraria ir, mas esse encontro com meus amigos está marcado a mais de ano, me passa seu Whats?
+
+                                                                                1 - (me dispensou para ficar com os amigos?) - Claro, aqui! (passar o número errado)
+
+                                                                                2 - (mesmo não chegando aos finalmentes foi uma noite muito agradável) - Claro, aqui! (passar número certo) (final feliz)
+
+                                                                        2 - (você convida todos os amigos dele para sua casa)
+
+                                                                            (11) - (a mesa vira uma muvuca, todos comemoram) -AEEEEEEEEEE!!!! -YUPIIIII!!!! -ISSAAAAAAAAA!!!!! (você percebe que todo mundo ta muito bêbado)
+                                                                            (você veio de uber)
+
+                                                                                1 - E ai, quem está de carro?
+
+                                                                                    (12) (duas das meninas que estavam na mesa levantam a mão um pouco vacilantes e olhos semicerrados)
+
+                                                                                        1 - e ai? bora?
+
+                                                                                            (13) (vocês entram em um dos carros, a amiga de M1 está dirigindo um pouco rápido demais)
+
+                                                                                                1 - Meu! para o carro, você ta doida de dirigir assim?
+
+                                                                                                    (14) - O carro é meu, ninguem me diz como dirigir
+
+                                                                                                        1 - Então para o carro que eu vou descer e pedir um uber
+
+                                                                                                            (15) - Calma - diz M1 - Joana vai dirigir tranquila, não vai? (Joana acena positivamente com a cabeça)
+
+                                                                                                                1 - Eu quero descer mesmo assim
+
+                                                                                                                    (16) (você desce do carro com muita frustração, pede um uber e dentro do uber percebe que esqueceu de pedir o Whats de M1) (FIM)
+
+                                                                                                                2 - Certo, mas não faça mais isso, você está bêbada e ta arriscando nossas vidas
+
+                                                                                                                    (16) - HAHAHAHAHAHAHA - Diz Joana, pisando fundo no acelerador. (Ela fura um sinal vermelho, dois sinais vermelhos, no terceiro o carro se choca contra um ônibus. Não houve sobreviventes) (FIM TRÁGICO 2)
+
+                                                                                                 2 - (você abre o teto solar e coloca metade do corpo para fora para aproveitar o vento)
+
+                                                                                                    (14) (havia um comando policial em uma das esquinas que passaram, os policiais ligam a sirene, Joana acelera mais e mostra que dentro da sua bolsa tem MDMA, devia ter umas 100 balas dentro de um frasco) - vamos ter que tomar - Disse Joana
+
+                                                                                                        1 - (você toma um punhado)
+
+                                                                                                            (15) (Você começa sentir muito mais o seu corpo, as sensações ficam mais fortes. Você começa a sentir tontura, um calor absurdo e uma repentina dor no peito. Então tudo escurece) (FIM TRÁGICO 3)
+
+                                                                                                        2 - (você se recusa a tomar)
+
+                                                                                                            (15) (Joana acelera cada vez mais, mas a viatura está cada vez mais próxima. Ela abre fogo, você sente sua roupa úmida e quente. Sangue, escuridão, zumbido e o nada) (FIM TRÁGICO 4)
+
+                                                                                        2 - acho que ninguém está com muita condição de dirigir 
+
+                                                                                            (13) Imagine - disse uma das meninas - Dirijo melhor quando tô assim, EU PILOTO!
+
+                                                                                                1 - Vamos de uber vai!
+
+                                                                                                    (14) como faremos com os carros? - disse Joana, a menina com traços orientais - Sem chance!
+
+                                                                                                        1 - (topar ir de carro)
+
+                                                                                                            (15) (vocês entram em um dos carros, Joana, a amiga de M1 está dirigindo um pouco rápido demais)
+
+                                                                                                                1 - Meu! para o carro, você ta doida de dirigir assim?
+
+                                                                                                                  (16) - O carro é meu, ninguem me diz como dirigir
+
+                                                                                                                        1 - Então para o carro que eu vou descer e pedir um uber
+
+                                                                                                                            (17) - Calma - diz M1 - Joana vai dirigir tranquila, não vai? (Joana acena positivamente com a cabeça)
+
+                                                                                                                                1 - Eu quero descer mesmo assim
+
+                                                                                                                                    (18) (você desce do carro com muita frustração, pede um uber e dentro do uber percebe que esqueceu de pedir o Whats de M1) (FIM)
+
+                                                                                                                                2 - Certo, mas não faça mais isso, você está bêbada e ta arriscando nossas vidas
+
+                                                                                                                                    (18) - HAHAHAHAHAHAHA - Diz Joana, pisando fundo no acelerador. (Ela fura um sinal vermelho, dois sinais vermelhos, no terceiro o carro se choca contra um ônibus. Não houve sobreviventes) (FIM TRÁGICO 2)
+
+                                                                                                                2 - (você abre o teto solar e coloca metade do corpo para fora para aproveitar o vento)
+
+                                                                                                                  (16) (havia um comando policial em uma das esquinas que passaram, os policiais ligam a sirene, Joana acelera mais e mostra que dentro da sua bolsa tem MDMA, devia ter umas 100 balas dentro de um frasco) - vamos ter que tomar - Disse Joana
+
+                                                                                                                        1 - (você toma um punhado)
+
+                                                                                                                                (17) (Você começa sentir muito mais o seu corpo, as sensações ficam mais fortes. Você começa a sentir tontura, um calor absurdo e uma repentina dor no peito. Então tudo escurece) (FIM TRÁGICO 3)
+
+                                                                                                                        2 - (você se recusa a tomar)
+
+                                                                                                                                (17) (Joana acelera cada vez mais, mas a viatura está cada vez mais próxima. Ela abre fogo, você sente sua roupa úmida e quente. Sangue, escuridão, zumbido e o nada) (FIM TRÁGICO 4)
+
+
+                                                                                                        2 - (não aceitar, pois no estado que todos estão é muito arriscado. pedir um uber)
+
+                                                                                                            (15) (você pede um uber, e deixa todos perplexos para trás. E um detalhe, você se esqueceu de pedir o telefone de M1) (FIM)
+
+
+                                                                                                2 - Quer saber, mudei de ideia, não estou me sentindo muito bem, acho que preciso descansar.
+
+                                                                                                    (14) (M1 se aproxima, te da um beijo e passa seu número de Whats) - Quero te ver novamente - Disse M1 (final feliz)
+
+                                                                                2 - Acho que estamos um pouco bêbados, o que acham de irmos de uber?
+
+                                                                                   \\ Linha 149
+
+                                                                        3 - (ainda não tem certeza se quer avançar com M1) - me passa seu Whats?
+
+                                                                            (11) Claro - Disse M1 - Adorei te conhecer, quero te ver em breve! Vamos combinar algo só nós dois (final feliz)
+
+                                                                            
+                                                        2 - (contemplar o céu)
+
+                                                            (9) (vocês contemplam o céu e o ar frio leva vocês a ficarem mais próximos, vocês sentem a respiração um do outro e aquele frio na barriga que a muito não sentia, faz parecer que há uma revoada de borboletas no seu estômago. Vocês se beijam demoradamente)
+
+                                                                1 - Uau! Quanto tempo não me sentia assim!
+
+                                                                    (10) para ser sincero, eu também
+
+                                                                        1 - o que acha de irmos para minha casa?
+
+                                                                            (11) só estava esperando você me chamar (final super feliz)
+
+                                                                        2 - está um pouco frio, vamos voltar?
+
+                                                                            \\ linha 92
+                                                                        
+                                                                2 -  \\LINHA 82
+
+                                                2 - (vocês se encostam em uma mureta e em silêncio contemplam o céu)
+
+                                                    (8) (M1 pega sua mão)
+
+                                                        1 - (se aproximar e dar um beijo em M1)
+
+                                                            \\linha 80
+
+                                                        2 - (aguardar M1 tomar iniciativa)
+
+                                                            (9) (M1 alisa seu rosto, você sente sua inebriante respiração e você recebe o melhor beijo de sua vida)
+
+                                                                1 - uau! o que foi isso?
+
+                                                                    (10) não sei, mas sinto que é muito especial. O que acha de irmos para minha casa? (final feliz)
+
+                                                                2 - \\linha 82
+
+                                        2 - Você propõe de sairem de la e irem até sua casa
+
+                                            (8) - vim para cá para o aniversário de um amigo meu da época da faculdade, queria aproveitar mais com ele.
+
+                                                1 - (se ofender, pois estava totalmente na dele e ele dispensa ir para sua casa para ficar com o amigo dele?)
+
+                                                2 - (entender, afinal amigos de longa data tem muita importância)
+
+						2 - recusar, pois não gosta de uísque 
+
+                            (5) - nunca fiz amigos bebendo leite
+
+                                1 - você ri e pede uma cerveja
+
+                                    (6) o papo flui muito bem. - O que acha de irmos para a área externa? ta um pouco barulhento
+
+                                        1 - Claro
+
+                                            \\linha 76
+
+                                        2 - Você propõe de sairem de la e irem até sua casa
+
+                                            \\linha 240
+
+                                2 - decide pegar o copo de uísque e tomar
+
+                                    (6) Tudo começa a subir
+
+										1 - Você sai correndo para o banheiro
+
+											(7) Você vomita na pia, se enxagua e pega um chiclete para disfarçar. Mas quando você volta para encontrar M1 ele não está mais lá.
+			
+										2 - Você tenta se manter firme
+
+											(7) Meu deus, não devia ter saído de casa de estomago vazio, é quase certo, você vai acabar vomitando.
+
+												1 - Você sai correndo para o banheiro mais próximo
+
+													(8) não vai dar tempo de chegar no banheiro
+
+														1 - vomitar no vaso de planta mais próximo
+
+															(9) o segurança te vê fazendo isso e te coloca para fora do bar
+
+														2 - tentar chegar até o banheiro
+
+															(9) Você deveria ter prestado atenção nos seus sentidos, um incontido jato de vomito cai no chão, na pressa de chegar no banheiro você escorrega, bate a cabeça e morre.
+
+												2 - Você tenta manter a educação e pedir licença para ir ao banheiro.
+
+													(8) conforme você começa a falar, você percebe que será tarde demais. Na ultima palavra sai um jato em direção a M1
+
+														1 - você tenta limpar
+
+															(9) ele fica com nojo e vomita em você. vocês entram em um loop infinito até o fim dos tempos
+
+														2 - pede desculpa e finge demência
+
+															(9) ele se levanta bastante constrangido e vai embora sem dizer nada
+
+				2 - Você cora pois não sabia que esse papinho infalível realmente funcionava.
+
+                    (3) o que você ouve?
+
+                        \\Linha 308 a 337
+
+	2 - entrar na brincadeira ;)
+
+		(2) eu mesmo prefiro muito mais os anos 80, principalmente a musica. O que você ouve?
+	
+			1 - Adoro sertanejo universitário e funk
+
+				(3) verdade? Sou muito ligado em Rock progressivo, Jazz fusion, Doom Metal e Bossa Nova. Poderia falar sobre isso o dia inteiro.
+
+					1 - Ele não parece mais tão interessante, gosto de musica mas nem tanto e eu to aqui dando em cima dele e ele querendo falar desse monte de coisa que nunca ouvi falar?
+						
+						(4) Uau, você parece com sono... bem, eu vou ali na mesa onde estão meus amigos, de qualquer maneira, prazer em te conhecer. (ele vai embora)
+
+					2 - Nossa, em pensar que musica para mim é praticamente para dançar e fazer faxina uahauhauhauha, adoraria conhecer mais sobre tudo isso que falou.
+
+						(4) Legal, me passa seu Whats? Assim poderiamos marcar para eu te mostrar mais sobre. (final feliz)
+
+
+			2 - curto muito o pop dos anos 80. MJ, Madonna (rainha) Cindy Lauper, Bonnie Tyler etc. Mas gosto também de rock, Bon Jovi, Whitesnake, Scorpions, sabe esses rocks mela cueca?
+
+                (3) Caramba, sou muito ligado em rock progressivo, mas acho fantástico esse som, escuto direto também!
+
+                \\linha 72
+
+			3 - Minha vida é o Jazz, poderia ouvir o dia inteiro Sarah Vaughan, Ella Fitzgerald, Duke Ellington (meu favorito)
+
+                (3) Nossa, não acredito! tem sido tão raro encontrar alguem com um gosto musical tão bom! Sou fã de todos esses e em especial Duke Ellington! Olha, não sou muito de fazer isso, mas tenho vários LPs. O que acha de irmos em casa para escutarmos? (final muito feliz)
+
+			4 - Não sou muito de música, escuto o que estiver tocando
+
+                (3) (ele parece um pouco desinteressado agora) - poxa... bom eu preciso voltar para a mesa dos meus amigos, é aniversário de um deles e não nos vemos desde a época da faculdade, foi muito legal te conhecer (M1 parte) (FIM)
+
+            5 - Vozes usahasuhsauashuashsa
+
+                \\linha 72 
+
+2 - Olá, como vai?
+
+	(1) vou bem, obrigado por perguntar!
+
+	1 - o que está bebendo?
+
+		(2) uísque, quer um pouco?
+
+            \\linha 29
+
+	2 - desculpa te falar assim, mas te achei muito bonito! quer conversar?
+
+        (2) poxa, obrigado, adoro elogios gratuitos, sobre musica, o que você ouve? 
+
+        \\Linha 308 a 337
+
+
+
