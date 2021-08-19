@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap');
+
+body
+{
+    font-family: 'Space Grotesk';
+display: flex;
+flex-direction: row;
+justify-content: center;
+background-image: url("../bar.jpg");
+background-repeat: no-repeat;
+background-position: center center;
+background-size: 990px;
+
+}
+
+.estilo 
+{
+padding: 20px;
+background-color: rgba(224, 224, 224, 0.9); 
+display: flex;
+flex-direction: column;
+align-items: center;
+width: 50%;
+border-radius: 15px;
+}
+#inicio
+{width: 20%;
+font-family: 'Space Grotesk';
+ background-color: darkred;
+ border:none;
+}

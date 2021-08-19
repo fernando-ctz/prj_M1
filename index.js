@@ -21,7 +21,7 @@ botao.onclick=r2
 }
 else if(resposta ==='2'){
 paragrafo.innerHTML='eu mesmo prefiro muito mais os anos 80, principalmente a musica. O que você ouve?'
-botao.onclick=r63
+botao.onclick=r62
 }
 }
 function r2(){
@@ -43,7 +43,7 @@ botao.onclick=r4
 }
 else if(resposta ==='2'){
 paragrafo.innerHTML='o que você ouve?'
-botao.onclick=r63
+botao.onclick=r62
 }
 }
 function r4(){
@@ -89,7 +89,7 @@ paragrafo.innerHTML='não vai dar tempo de chegar no banheiro'
 botao.onclick=r9
 }
 else if(resposta ==='2'){
-paragrafo.innerHTML='Meu deus, não devia ter saído de casa de estomago vazio, é quase certo, você vai acabar vomitando'
+paragrafo.innerHTML='conforme você começa a falar, você percebe que será tarde demais. Na ultima palavra sai um jato em direção a M1'
 botao.onclick=r12
 }
 }
@@ -252,7 +252,24 @@ else if(resposta ==='2'){
 paragrafo.innerHTML='(havia um comando policial em uma das esquinas que passaram, os policiais ligam a sirene, Joana acelera mais e mostra que dentro da sua bolsa tem MDMA, devia ter umas 100 balas dentro de um frasco) - vamos ter que tomar - Disse Joana'
 botao.onclick=r39
 }
-} 
+}
+function r39(){
+    let resposta = prompt("1 - (você toma um punhado)\n 2 - (você se recusa a tomar)")
+   if(resposta ==='1') {
+   paragrafo.innerHTML='(Você começa sentir muito mais o seu corpo, as sensações ficam mais fortes. Você começa a sentir tontura, um calor absurdo e uma repentina dor no peito. Então tudo escurece)'    
+    botao.onclick=r40
+   }
+   else if(resposta ==='2'){
+   paragrafo.innerHTML='(Joana acelera cada vez mais, mas a viatura está cada vez mais próxima. Ela abre fogo, você sente sua roupa úmida e quente. Sangue, escuridão, zumbido e o nada)'
+   botao.onclick=r41
+   }
+   }
+   function r40(){
+    paragrafo.innerHTML='(FINAL TRÁGICO)'
+    }
+    function r41(){
+    paragrafo.innerHTML='(FINAL TRÁGICO)'
+    }
 function r26(){
  let resposta = prompt("1 - Eu quero descer mesmo assim\n 2 - Certo, mas não faça mais isso, você está bêbada e ta arriscando nossas vidas")
 if(resposta ==='1') {
@@ -359,7 +376,7 @@ botao.onclick=r49
 }
 else if(resposta ==='2'){
 paragrafo.innerHTML='(vocês voltam para dentro e ele te apresenta aos amigos dele, a noite continua muito divertida, mas o bar começa a fechar)'
-botao.onclick=r18
+botao.onclick=r20
 }
 } 
 function r49(){
@@ -373,7 +390,7 @@ botao.onclick=r1000
 }
 else if(resposta ==='2'){
 paragrafo.innerHTML='(vocês voltam para dentro e ele te apresenta aos amigos dele, a noite continua muito divertida, mas o bar começa a fechar)'
-botao.onclick=r18
+botao.onclick=r20
 }
 } 
 function r1000(){
